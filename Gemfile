@@ -1,0 +1,10 @@
+source 'http://rubygems.org'
+
+gem 'capybara', '3.30.0cd..'
+gem 'cucumber'
+gem 'selenium-webdriver', '~>3.4'
+gem 'rspec'
+gem 'site_prism', '3.4'
+gem 'syntax'
+gem 'rubocop'
+gem 'byebug'
